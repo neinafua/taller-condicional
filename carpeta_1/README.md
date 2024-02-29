@@ -1,7 +1,7 @@
 # Coordenadas_Cartesianas
 Programa que lee las coordenadas cartesianas (x, y) de un punto en el plano y calcula el cuadrante al cual pertenece el punto. Si el punto está sobre un eje también debe indicarlo.
 
-# ANALISIS
+# ANALISIs
 
 Variables de entrada y proceso (input, processing)
 
