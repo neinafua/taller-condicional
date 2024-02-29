@@ -1,6 +1,4 @@
-#programa para calcular en que cuadrante esta un punto,de un plano cartesiano
-
-#entrada
+# entrada
 X = int(input("ingrese la coordenada x: "))
 Y = int(input("ingrese la coordenada y: "))
 
