@@ -66,7 +66,7 @@
                 <mxCell id="13" value="(m-50)*3000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;" parent="1" vertex="1">
                     <mxGeometry x="380" y="480" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="m&lt;sup&gt;3&amp;nbsp; &lt;/sup&gt;gastados * 2000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;" parent="1" vertex="1">
+                <mxCell id="14" value="(m-50)*2000" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#7F00FF;" parent="1" vertex="1">
                     <mxGeometry x="80" y="480" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="15" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="14" edge="1">
