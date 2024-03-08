@@ -1,13 +1,18 @@
-# entrada
-m= float(input("cuantos metros cúbicos de agua consumio en el mes: "))
-# proceso
-cuota_fija = 10000
-cuota_metro_50_200 = 2000
-cuota_metro_200_mas = 3000
-if m<=50:
-    print("tiene que pagar $10000")
-elif m<200:
-    print("tiene que pagar" + "$" +str(cuota_fija + cuota_metro_50_200))
-else:
-    print("tiene que pagar" + "$" +str(cuota_fija + cuota_metro_200_mas))
+# Un programa para calcular el costo de agua por m3 
 
+# Input
+
+M3 = int(input("cuanta agua gasto este mes?: "))
+cuota_fija= 10000
+# Processing
+
+if M3 < 50:
+    PAGO = 0 + cuota_fija
+elif M3 < 200:
+    PAGO = ((M3-50) *2000) +cuota_fija
+else:
+    PAGO = ((M3-50) *3000) +cuota_fija
+
+# Output 
+
+print ("El dinero a pagar por el gasto del agua es: ",PAGO,)

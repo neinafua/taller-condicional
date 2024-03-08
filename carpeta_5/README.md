@@ -10,8 +10,8 @@ variables de entrada
 
 variables de proceso
 - cuota fija = $10000
-- cuota entre 50m a 200m = $2000
-- cuota dde 200 en adelante = $3000
+- si es mas de 50 m3, se cobra 2000 por cada m3 adicional
+-si es mas de 200 m3, se cobra 3000 por cada m3 adicional
 
 variables de salida
 - cantidad a pagar

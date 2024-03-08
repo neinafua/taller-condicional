@@ -1,10 +1,10 @@
 # entrada
 X = int(input("Ingrese el primer número: "))
-y = int(input("Ingrese el segundo número: "))
+Y = int(input("Ingrese el segundo número: "))
 z = int(input("Ingrese el tercer número: "))
 
 # proceso
-if X + y == z:
-    print("La suma de los dos primeros números es igual al tercer número")
+if X + Y == z:
+    print("La suma de" (X + Y) "es igual az ))
 else :
-    print("La suma de los dos primeros números no es igual al tercer número")
+    print("La suma de" (X + Y) "no es igual a" (z ))
