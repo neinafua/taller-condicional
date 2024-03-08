@@ -1,10 +1,11 @@
-# entrada
-X = int(input("Ingrese el primer número: "))
-Y = int(input("Ingrese el segundo número: "))
-z = int(input("Ingrese el tercer número: "))
+# ENYTRADA
+X = int(input("porfavor ingrese el primer numero : "))
+Y = int(input("porfavor ingrese el segundo numero : "))
+Z = int(input("porfavor ingrese el tercer numero : "))
 
-# proceso
-if X + Y == z:
-    print("La suma de" (X + Y) "es igual az ))
-else :
-    print("La suma de" (X + Y) "no es igual a" (z ))
+# procesing
+
+if X + Y == Z:
+    print("La suma de los numeros",X,"+",Y,"es igual al numero",Z)
+else:
+    print("La suma de los numeros",X,"+",Y,"no es igual al numero",Z)
